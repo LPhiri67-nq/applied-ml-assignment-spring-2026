@@ -7,7 +7,7 @@ This repository contains the complete code and report for the **Applied Machine 
 &nbsp;
 
 &nbsp;
-## 📋 Assignment Overview
+## Assignment Overview
 
 **Task 1 – Natural Language Processing (50%)**  
 Binary sentiment analysis on movie reviews contaminated with randomly mixed email-style spam.
