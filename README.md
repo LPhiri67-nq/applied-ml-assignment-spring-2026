@@ -28,7 +28,7 @@ applied-ml-assignment-spring-2026/
 ├── figures/                              # Figures and diagrams used in the report
 └── README.md
 ```
-
+<br><br>
 ## 🚀 Key Features
 
 ### Task 1 – Sentiment Analysis
