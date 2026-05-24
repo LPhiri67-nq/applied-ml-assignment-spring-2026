@@ -9,10 +9,10 @@ This repository contains the complete code and report for the **Applied Machine 
 &nbsp;
 ## Assignment Overview
 
-**Task 1 – Natural Language Processing (50%)**  
+**Task 1 – Natural Language Processing
 Binary sentiment analysis on movie reviews contaminated with randomly mixed email-style spam.
 
-**Task 2 – Computer Vision (50%)**  
+**Task 2 – Computer Vision 
 Face alignment by localising facial landmarks in images with geometric and photometric variability.
 &nbsp;
 
