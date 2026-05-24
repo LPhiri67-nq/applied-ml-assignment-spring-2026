@@ -50,7 +50,7 @@ applied-ml-assignment-spring-2026/
 - Comparison between classical (HOG + Ridge) and deep learning approaches
 - Cumulative Error Distribution (CED) analysis
 
-## 📊 Figures
+### 📊 Figures
 
 All visualisations available in the notebooks and used in the report are available in the `figures/` folder:
 
@@ -68,7 +68,7 @@ All visualisations available in the notebooks and used in the report are availab
 - `landmark_failure_example.png` — Failure case example
 - `robustness_analysis.png` — Robustness test results
 
-## 📝 Report
+### 📝 Report
 
 The full assignment report (`MachineLearning_FinalReport.pdf`) is available in the `Report/` folder.
 
