@@ -47,7 +47,7 @@ applied-ml-assignment-spring-2026/
 
 ### 📊 Figures
 
-All visualisations available in the notebooks and used in the report are available in the `figures/` folder:
+All visualisations available in the notebooks and used in the report:
 
 **Task 1 – Sentiment Analysis**
 - `review_length_distribution.png` — Review length distribution by sentiment class
