@@ -4,9 +4,7 @@
 This repository contains the complete code and report for the **Applied Machine Learning** module assignment (University of Sussex, Spring 2026).
 
 > **Note**: This repository is public for submission purposes only. It is **not** an open-source project.
-&nbsp;
 
-&nbsp;
 ## Assignment Overview
 
 **Task 1 – Natural Language Processing**  
@@ -30,8 +28,7 @@ applied-ml-assignment-spring-2026/
 ├── figures/                              # Figures and diagrams used in the report
 └── README.md
 ```
-&nbsp;
-&nbsp;
+
 ## 🚀 Key Features
 
 ### Task 1 – Sentiment Analysis
