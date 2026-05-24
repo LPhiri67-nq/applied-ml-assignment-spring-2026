@@ -14,9 +14,7 @@ Binary sentiment analysis on movie reviews contaminated with randomly mixed emai
 
 **Task 2 – Computer Vision**
 Face alignment by localising facial landmarks in images with geometric and photometric variability.
-&nbsp;
 
-&nbsp;
 ## 📁 Repository Structure
 
 ```text
