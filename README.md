@@ -1,6 +1,5 @@
 # applied-ml-assignment-spring-2026
 
-Applied Machine Learning Assignment – Task 1 (Sentiment Analysis) &amp; Task 2 (Face Alignment)
 
 This repository contains the complete code and report for the **Applied Machine Learning** module assignment (University of Sussex, Spring 2026).
 
@@ -15,6 +14,7 @@ Binary sentiment analysis on movie reviews contaminated with randomly mixed emai
 
 **Task 2 – Computer Vision (50%)**  
 Face alignment by localising facial landmarks in images with geometric and photometric variability.
+&nbsp;
 &nbsp;
 ## 📁 Repository Structure
 
