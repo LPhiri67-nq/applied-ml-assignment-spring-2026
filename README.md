@@ -29,7 +29,6 @@ applied-ml-assignment-spring-2026/
 └── README.md
 ```
 &nbsp;
-
 &nbsp;
 ## 🚀 Key Features
 
